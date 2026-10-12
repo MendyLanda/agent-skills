@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser API discovery"
+  short_description: "Inspect website APIs and save browser evidence"
+  default_prompt: "Use $browser-api-discovery to inspect the missing website operation with CloakBrowser and agent-browser, then save evidence for offline analysis."

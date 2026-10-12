@@ -1,0 +1,10 @@
+{
+  "name": "browser-api-discovery-runtime",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "dependencies": {
+    "cloakbrowser": "0.5.10",
+    "playwright": "1.63.0"
+  }
+}
